@@ -1,0 +1,924 @@
+{
+    "albums": {
+        "href": "https://api.spotify.com/v1/search?query=mahadev&type=album&offset=0&limit=20",
+        "items": [
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+                        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+                        "name": "Amit Trivedi",
+                        "type": "artist",
+                        "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
+                },
+                "href": "https://api.spotify.com/v1/albums/5tr2QN1s6pREyv0Kc39Zpm",
+                "id": "5tr2QN1s6pREyv0Kc39Zpm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c65eb44f9039e006247ef8f7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c65eb44f9039e006247ef8f7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c65eb44f9039e006247ef8f7",
+                        "width": 64
+                    }
+                ],
+                "name": "Kedarnath (Original Motion Picture Soundtrack)",
+                "release_date": "2018-11-27",
+                "release_date_precision": "day",
+                "total_tracks": 5,
+                "type": "album",
+                "uri": "spotify:album:5tr2QN1s6pREyv0Kc39Zpm"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0PpNUmL5p0uOrdefDiJXOx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0PpNUmL5p0uOrdefDiJXOx",
+                        "id": "0PpNUmL5p0uOrdefDiJXOx",
+                        "name": "Muktidan Gadhvi",
+                        "type": "artist",
+                        "uri": "spotify:artist:0PpNUmL5p0uOrdefDiJXOx"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0hm087IkADIJSEsrFYSor8"
+                },
+                "href": "https://api.spotify.com/v1/albums/0hm087IkADIJSEsrFYSor8",
+                "id": "0hm087IkADIJSEsrFYSor8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d9199ff9309e5f2a05b37122",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d9199ff9309e5f2a05b37122",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d9199ff9309e5f2a05b37122",
+                        "width": 64
+                    }
+                ],
+                "name": "Bhole Charaniy Aaradhna",
+                "release_date": "2024-01-19",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:0hm087IkADIJSEsrFYSor8"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+                        "id": "5cEE1pTgDhFe8QuigmqxJF",
+                        "name": "Hansraj Raghuwanshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5gP55UxMUZct8qxynIylI1"
+                },
+                "href": "https://api.spotify.com/v1/albums/5gP55UxMUZct8qxynIylI1",
+                "id": "5gP55UxMUZct8qxynIylI1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27369edbf653501774e1396f00e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0269edbf653501774e1396f00e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485169edbf653501774e1396f00e",
+                        "width": 64
+                    }
+                ],
+                "name": "Main Shiv Ka Shiv Mere",
+                "release_date": "2021-05-15",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:5gP55UxMUZct8qxynIylI1"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0OecNQQOX6aODTltP5KvhJ"
+                },
+                "href": "https://api.spotify.com/v1/albums/0OecNQQOX6aODTltP5KvhJ",
+                "id": "0OecNQQOX6aODTltP5KvhJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aee987cedcc8315c4d133d3a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aee987cedcc8315c4d133d3a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aee987cedcc8315c4d133d3a",
+                        "width": 64
+                    }
+                ],
+                "name": "OMG 2 (Original Motion Picture Soundtrack)",
+                "release_date": "2023-08-08",
+                "release_date_precision": "day",
+                "total_tracks": 4,
+                "type": "album",
+                "uri": "spotify:album:0OecNQQOX6aODTltP5KvhJ"
+            },
+            {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6z2I2i1IUSCuyoVB3RkEfd"
+                },
+                "href": "https://api.spotify.com/v1/albums/6z2I2i1IUSCuyoVB3RkEfd",
+                "id": "6z2I2i1IUSCuyoVB3RkEfd",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cd229907fe7aa74e184daecd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cd229907fe7aa74e184daecd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cd229907fe7aa74e184daecd",
+                        "width": 64
+                    }
+                ],
+                "name": "Gulshan Kumar Shiv Bhajans",
+                "release_date": "2017-07-12",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:6z2I2i1IUSCuyoVB3RkEfd"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+                        "id": "5cEE1pTgDhFe8QuigmqxJF",
+                        "name": "Hansraj Raghuwanshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7w089qcbkrJcuYYDzpWTeJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7w089qcbkrJcuYYDzpWTeJ",
+                        "id": "7w089qcbkrJcuYYDzpWTeJ",
+                        "name": "Bharat Kamal",
+                        "type": "artist",
+                        "uri": "spotify:artist:7w089qcbkrJcuYYDzpWTeJ"
+                    }
+                ],
+                "available_markets": [
+                    "IN"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/723x4nPsmlyVsij3HEMlek"
+                },
+                "href": "https://api.spotify.com/v1/albums/723x4nPsmlyVsij3HEMlek",
+                "id": "723x4nPsmlyVsij3HEMlek",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738a09df9689f5a79cabdb97b3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028a09df9689f5a79cabdb97b3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518a09df9689f5a79cabdb97b3",
+                        "width": 64
+                    }
+                ],
+                "name": "Parvati Boli Shankar Se",
+                "release_date": "2022-02-07",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:723x4nPsmlyVsij3HEMlek"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nrLg8zk1cwA5wZ3nd4vB8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nrLg8zk1cwA5wZ3nd4vB8",
+                        "id": "0nrLg8zk1cwA5wZ3nd4vB8",
+                        "name": "Akki Kalyan",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nrLg8zk1cwA5wZ3nd4vB8"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2XqvuQz7ctXOOYEhuPClLD"
+                },
+                "href": "https://api.spotify.com/v1/albums/2XqvuQz7ctXOOYEhuPClLD",
+                "id": "2XqvuQz7ctXOOYEhuPClLD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736f11c2c9b6170caef206e42e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026f11c2c9b6170caef206e42e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516f11c2c9b6170caef206e42e",
+                        "width": 64
+                    }
+                ],
+                "name": "Devo Ke Dev Mahadev",
+                "release_date": "2021-03-10",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:2XqvuQz7ctXOOYEhuPClLD"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4xad4P3f5RnrEC2uUtVpFb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4xad4P3f5RnrEC2uUtVpFb",
+                        "id": "4xad4P3f5RnrEC2uUtVpFb",
+                        "name": "Hashtag Pandit",
+                        "type": "artist",
+                        "uri": "spotify:artist:4xad4P3f5RnrEC2uUtVpFb"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0i5U69XQCNZRKBudYOCpnS"
+                },
+                "href": "https://api.spotify.com/v1/albums/0i5U69XQCNZRKBudYOCpnS",
+                "id": "0i5U69XQCNZRKBudYOCpnS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d62749b96dd9e53e248b1fbc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d62749b96dd9e53e248b1fbc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d62749b96dd9e53e248b1fbc",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadev",
+                "release_date": "2023-04-17",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:0i5U69XQCNZRKBudYOCpnS"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+                        "id": "5cEE1pTgDhFe8QuigmqxJF",
+                        "name": "Hansraj Raghuwanshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+                    }
+                ],
+                
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/43bOFWQvSc8h4J5PfVEu9s"
+                },
+                "href": "https://api.spotify.com/v1/albums/43bOFWQvSc8h4J5PfVEu9s",
+                "id": "43bOFWQvSc8h4J5PfVEu9s",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738bfd179a1ba13a1e75139550",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028bfd179a1ba13a1e75139550",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518bfd179a1ba13a1e75139550",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadeva",
+                "release_date": "2020-04-02",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:43bOFWQvSc8h4J5PfVEu9s"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3b9iVRjKkiC4oIHXB7pbzJ",
+                        "id": "3b9iVRjKkiC4oIHXB7pbzJ",
+                        "name": "Narci",
+                        "type": "artist",
+                        "uri": "spotify:artist:3b9iVRjKkiC4oIHXB7pbzJ"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6K0LDMElYKCGNXDs5ZhNS5"
+                },
+                "href": "https://api.spotify.com/v1/albums/6K0LDMElYKCGNXDs5ZhNS5",
+                "id": "6K0LDMElYKCGNXDs5ZhNS5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bc89ddd60f53c4214b3fb814",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bc89ddd60f53c4214b3fb814",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bc89ddd60f53c4214b3fb814",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadev Aur Main",
+                "release_date": "2023-07-14",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:6K0LDMElYKCGNXDs5ZhNS5"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+                        "id": "5cEE1pTgDhFe8QuigmqxJF",
+                        "name": "Hansraj Raghuwanshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5HqqFOGmcNPcdXieXmbYRk"
+                },
+                "href": "https://api.spotify.com/v1/albums/5HqqFOGmcNPcdXieXmbYRk",
+                "id": "5HqqFOGmcNPcdXieXmbYRk",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cc3208ba0367806fe3adcba0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cc3208ba0367806fe3adcba0",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cc3208ba0367806fe3adcba0",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadev Ke Deewane",
+                "release_date": "2022-02-22",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:5HqqFOGmcNPcdXieXmbYRk"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4CKKoUN0iyrHBUNx6Xrnc8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4CKKoUN0iyrHBUNx6Xrnc8",
+                        "id": "4CKKoUN0iyrHBUNx6Xrnc8",
+                        "name": "Geeta Rabari",
+                        "type": "artist",
+                        "uri": "spotify:artist:4CKKoUN0iyrHBUNx6Xrnc8"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4tSsawfrihenrjUCvuWm2P"
+                },
+                "href": "https://api.spotify.com/v1/albums/4tSsawfrihenrjUCvuWm2P",
+                "id": "4tSsawfrihenrjUCvuWm2P",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273df84313f7d6d8cc736cc0235",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02df84313f7d6d8cc736cc0235",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851df84313f7d6d8cc736cc0235",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadev",
+                "release_date": "2018-08-11",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4tSsawfrihenrjUCvuWm2P"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+                        "id": "1SJOL9HJ08YOn92lFcYf8a",
+                        "name": "Shankar Mahadevan",
+                        "type": "artist",
+                        "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7t4REBeDRM21rNDhvd1fZ7"
+                },
+                "href": "https://api.spotify.com/v1/albums/7t4REBeDRM21rNDhvd1fZ7",
+                "id": "7t4REBeDRM21rNDhvd1fZ7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b67db713bde6c152991694eb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b67db713bde6c152991694eb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b67db713bde6c152991694eb",
+                        "width": 64
+                    }
+                ],
+                "name": "Hits of Shankar Mahadevan",
+                "release_date": "2013-03-25",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:7t4REBeDRM21rNDhvd1fZ7"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+                        "id": "1SJOL9HJ08YOn92lFcYf8a",
+                        "name": "Shankar Mahadevan",
+                        "type": "artist",
+                        "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+                    }
+                ],
+                "available_markets": [
+                    "IN"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5z8t3UPOq8aXkOizGC1dIR"
+                },
+                "href": "https://api.spotify.com/v1/albums/5z8t3UPOq8aXkOizGC1dIR",
+                "id": "5z8t3UPOq8aXkOizGC1dIR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e0465d8bfa98b79dfcb7c40e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e0465d8bfa98b79dfcb7c40e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e0465d8bfa98b79dfcb7c40e",
+                        "width": 64
+                    }
+                ],
+                "name": "Katrodu Puyalaaga Vandha Shankar Mahadevan",
+                "release_date": "2023-03-01",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:5z8t3UPOq8aXkOizGC1dIR"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0nrLg8zk1cwA5wZ3nd4vB8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0nrLg8zk1cwA5wZ3nd4vB8",
+                        "id": "0nrLg8zk1cwA5wZ3nd4vB8",
+                        "name": "Akki Kalyan",
+                        "type": "artist",
+                        "uri": "spotify:artist:0nrLg8zk1cwA5wZ3nd4vB8"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6XCL6mbDyX8AK0JZLJCq5K"
+                },
+                "href": "https://api.spotify.com/v1/albums/6XCL6mbDyX8AK0JZLJCq5K",
+                "id": "6XCL6mbDyX8AK0JZLJCq5K",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736b9e1693d65b28ba750fdfad",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026b9e1693d65b28ba750fdfad",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516b9e1693d65b28ba750fdfad",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadev Seene Mein",
+                "release_date": "2022-03-16",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:6XCL6mbDyX8AK0JZLJCq5K"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1D2iFq9yubqXXfQuhueVTB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1D2iFq9yubqXXfQuhueVTB",
+                        "id": "1D2iFq9yubqXXfQuhueVTB",
+                        "name": "Sheela Kalson",
+                        "type": "artist",
+                        "uri": "spotify:artist:1D2iFq9yubqXXfQuhueVTB"
+                    }
+                ],
+                
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3LjOQG0DpGYunWgkRXKcDH"
+                },
+                "href": "https://api.spotify.com/v1/albums/3LjOQG0DpGYunWgkRXKcDH",
+                "id": "3LjOQG0DpGYunWgkRXKcDH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732ae2d0908bc0715b5c2acf61",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022ae2d0908bc0715b5c2acf61",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512ae2d0908bc0715b5c2acf61",
+                        "width": 64
+                    }
+                ],
+                "name": "Mahadev Kahe Suno Parwati Ek Lota Bhangiya Pilado Naa",
+                "release_date": "2024-06-15",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:3LjOQG0DpGYunWgkRXKcDH"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5Su2sreBr8F4zTMSCKycTK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5Su2sreBr8F4zTMSCKycTK",
+                        "id": "5Su2sreBr8F4zTMSCKycTK",
+                        "name": "Lovekush Dungri",
+                        "type": "artist",
+                        "uri": "spotify:artist:5Su2sreBr8F4zTMSCKycTK"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1OxOWquAkxaCrJrWZdp4jW"
+                },
+                "href": "https://api.spotify.com/v1/albums/1OxOWquAkxaCrJrWZdp4jW",
+                "id": "1OxOWquAkxaCrJrWZdp4jW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273736a61ff33c17b998ff08f60",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02736a61ff33c17b998ff08f60",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851736a61ff33c17b998ff08f60",
+                        "width": 64
+                    }
+                ],
+                "name": "Khandit Mat Kardijo Chhori Barat Mahadev Baba Ko",
+                "release_date": "2024-06-13",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:1OxOWquAkxaCrJrWZdp4jW"
+            },
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+                        "id": "1SJOL9HJ08YOn92lFcYf8a",
+                        "name": "Shankar Mahadevan",
+                        "type": "artist",
+                        "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5t4ZtKPDT4r1ZPobRGIAyo"
+                },
+                "href": "https://api.spotify.com/v1/albums/5t4ZtKPDT4r1ZPobRGIAyo",
+                "id": "5t4ZtKPDT4r1ZPobRGIAyo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f52ac029b4974b9958fea06b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f52ac029b4974b9958fea06b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f52ac029b4974b9958fea06b",
+                        "width": 64
+                    }
+                ],
+                "name": "Hits of Shankar Mahadevan",
+                "release_date": "2013-05-29",
+                "release_date_precision": "day",
+                "total_tracks": 26,
+                "type": "album",
+                "uri": "spotify:album:5t4ZtKPDT4r1ZPobRGIAyo"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5cEE1pTgDhFe8QuigmqxJF",
+                        "id": "5cEE1pTgDhFe8QuigmqxJF",
+                        "name": "Hansraj Raghuwanshi",
+                        "type": "artist",
+                        "uri": "spotify:artist:5cEE1pTgDhFe8QuigmqxJF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3RP5G139xbMICwhskoljmz",
+                        "id": "3RP5G139xbMICwhskoljmz",
+                        "name": "Kartik Dev",
+                        "type": "artist",
+                        "uri": "spotify:artist:3RP5G139xbMICwhskoljmz"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/68Cqe4YTtQpcuyKLktPxr9",
+                        "id": "68Cqe4YTtQpcuyKLktPxr9",
+                        "name": "Gaurav Dev",
+                        "type": "artist",
+                        "uri": "spotify:artist:68Cqe4YTtQpcuyKLktPxr9"
+                    }
+                ],
+               
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6T5Vef5ZT8fRwFZduwwl5d"
+                },
+                "href": "https://api.spotify.com/v1/albums/6T5Vef5ZT8fRwFZduwwl5d",
+                "id": "6T5Vef5ZT8fRwFZduwwl5d",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731146b27e15158f1d8658f44c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021146b27e15158f1d8658f44c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511146b27e15158f1d8658f44c",
+                        "width": 64
+                    }
+                ],
+                "name": "Parvati Bhole Shankar Se",
+                "release_date": "2024-06-15",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:6T5Vef5ZT8fRwFZduwwl5d"
+            },
+            {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6sfmA8vQpZSaKsZ1WUmHzX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6sfmA8vQpZSaKsZ1WUmHzX",
+                        "id": "6sfmA8vQpZSaKsZ1WUmHzX",
+                        "name": "Shani Vishwakarma",
+                        "type": "artist",
+                        "uri": "spotify:artist:6sfmA8vQpZSaKsZ1WUmHzX"
+                    }
+                ],
+                 
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4yxS6kb6PuERMFOdyb0fx8"
+                },
+                "href": "https://api.spotify.com/v1/albums/4yxS6kb6PuERMFOdyb0fx8",
+                "id": "4yxS6kb6PuERMFOdyb0fx8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cc40b224f7ae7228154cf361",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cc40b224f7ae7228154cf361",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cc40b224f7ae7228154cf361",
+                        "width": 64
+                    }
+                ],
+                "name": "Duniya Mahadev Ke Diwana Ba",
+                "release_date": "2024-06-13",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4yxS6kb6PuERMFOdyb0fx8"
+            }
+        ],
+        "limit": 20,
+        "next": "https://api.spotify.com/v1/search?query=mahadev&type=album&offset=20&limit=20",
+        "offset": 0,
+        "previous": null,
+        "total": 984
+    }
+}
