@@ -11,7 +11,7 @@ export default class Songslist extends Component {
                         <h5 className="card-title">{name.slice(0, 25)}...</h5>
                         <h6 className="card-text"> {artist}</h6>
                         <p className="card-text"> {release}</p>
-                        <a rel='noreferrer' href={songUrl} target="_blank" className="btn btn-primary">Go somewhere</a>
+                        <a rel='noreferrer' href={songUrl} target="_blank" className="btn btn-primary">Play Song</a>
                     </div>
                 </div>
             </div>
