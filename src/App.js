@@ -2,7 +2,7 @@
 import Navbar from './components/Navbar';
 import Songs from './components/Songs';
 import React, { Component } from 'react'
-import Home from './components/Home'
+import LoadingBar from 'react-top-loading-bar'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 export default class App extends Component {
     constructor(props) {
@@ -10,7 +10,8 @@ export default class App extends Component {
         this.state =
         {
             search: "",
-            search1:""
+            search1:"",
+            progress:0
         }
     }
     searches = async () => {
@@ -19,13 +20,22 @@ export default class App extends Component {
         this.setState({ search: newText.join("") })
 
     }
+    setProgress=(progress)=>
+    {
+        this.setState({progress:progress})
+    }
     render() {
         return (
             <div>
                 <Router>
                     <Navbar />
+                   
                     <div className='container'>
-                        <h1 className='text-center'>Song</h1>
+                    <LoadingBar color='#f11946'
+                    height={3}
+                    progress={this.state.progress}
+                    />
+                        <h1 className='text-center'>Song <span style={{color:'green'}}>{this.state.search}</span></h1>
                         <div className='row justify-content-center my-3'>
                             <div className='col-md-6'>
                                 <div className='input-group'>
@@ -38,8 +48,8 @@ export default class App extends Component {
                         </div>
                     </div>
                     <Routes>
-                        <Route path='/search'  element={<Songs key={this.state.search} searchText={this.state.search} />} />
-                        <Route path='/' element={<Home searchText={"latest"} />} />
+                        <Route path='/search' element={<Songs key={this.state.search} setProgress={this.setProgress} searchText={this.state.search} />} />
+                        <Route path='/' element={<Songs key={"latest"} setProgress={this.setProgress} searchText={"latest"} />} />
                     </Routes>
 
                 </Router>
